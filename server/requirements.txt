@@ -1,0 +1,5 @@
+dotenv
+mysql 
+jwtoken 
+express
+cors
